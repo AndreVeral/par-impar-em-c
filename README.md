@@ -1,0 +1,1 @@
+Dado um número inteiro, calcule se par ou ímpar.
